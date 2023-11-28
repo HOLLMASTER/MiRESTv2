@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiRest_V2", "MiRest_V2.csproj", "{4628DEF1-25A3-4FB3-85CF-2710A79D41C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4628DEF1-25A3-4FB3-85CF-2710A79D41C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4628DEF1-25A3-4FB3-85CF-2710A79D41C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4628DEF1-25A3-4FB3-85CF-2710A79D41C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4628DEF1-25A3-4FB3-85CF-2710A79D41C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FF7D74B-D5B5-4C0D-A94C-168B6149C148}
+	EndGlobalSection
+EndGlobal
